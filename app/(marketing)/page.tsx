@@ -45,7 +45,7 @@ const MarketingPage =()=>{
                         Collaborate , manage project , and reach new productivity peaks . From high rises to the home office , the way your team works in unique - accomplish it all with Migo
                     </div>
                     <Button>
-                    <Link href="/signin">
+                    <Link href="/sign-up">
                     Get Migo For Free
                     </Link>
                     </Button>
